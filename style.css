@@ -1,8 +1,8 @@
 :root {
-  --color-white: #ffffff;
-  --color-black: #202020;
-  --color-glass: rgba(255, 255, 255, 0.05);
-  --color-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+  --color-white: #3186db;
+  --color-black: #000000;
+  --color-glass: rgba(35, 69, 119, 0.05);
+  --color-shadow: 0 0 25px rgba(0, 184, 208, 0.5);
 }
 * {
   padding: 0;
